@@ -20,24 +20,24 @@ public class Student {
         return name;
     }
 
-    public void setName(String s){
-        this.name=s;
+    public void setName(String name){
+        this.name=name;
     }
 
     public String getRoll(){
         return roll;
     }
 
-    public void setRoll(String r){
-        this.roll=r;
+    public void setRoll(String roll){
+        this.roll=roll;
     }
 
     public int[] getMarks(){
         return marks;
     }
 
-    public void setMarks(int[] m){
-        this.marks=m;
+    public void setMarks(int[] marks){
+        this.marks=marks;
     }
 
     public int getTotal(){
